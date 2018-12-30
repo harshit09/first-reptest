@@ -1,0 +1,6 @@
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Harshit\Learning\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
